@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <h3 align="center">Welcome to my page!</h3>
-<p>I'm Srushti, a seasoned software developer experienced in creating robust functionalities, testing them, and integrating them cleanly with other subsystems. Looking to contribute great value as a full-stack developer across products and services.
+<p>I'm Srushti, a seasoned software developer 3.5 years of experience in creating robust functionalities, testing them, and integrating them cleanly with other subsystems. Looking to contribute great value as a full-stack developer across products and services.
 </p>
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyashil-g&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyashil-g" /> </p>
