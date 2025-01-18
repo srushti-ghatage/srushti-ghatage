@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you!</h1>
 
 <h3 align="center">Welcome to my page!</h3>
 <p>I'm Srushti, a seasoned software developer 3.5 years of experience in creating robust functionalities, testing them, and integrating them cleanly with other subsystems. Looking to contribute great value as a full-stack developer across products and services.
