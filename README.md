@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1yZDGrmT7xU243Jq6Oy0-eGeG6IsNz5gJ/view?usp=drive_link" target="_blank">Resume</a>
 
-- ⚡ Fun fact is **I call myself a Singer**
+- ⚡ Fun fact is **I am a Singer**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/srushti-ghatage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Srushti Ghatage" height="30" width="40" /></a>
